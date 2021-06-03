@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactJS-abcdGame/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ReactJS-abcdGame/static/js/main.50cf5da2.chunk.js",
+    "main.js.map": "/ReactJS-abcdGame/static/js/main.50cf5da2.chunk.js.map",
+    "runtime-main.js": "/ReactJS-abcdGame/static/js/runtime-main.e81162b6.js",
+    "runtime-main.js.map": "/ReactJS-abcdGame/static/js/runtime-main.e81162b6.js.map",
+    "static/js/2.577c3f73.chunk.js": "/ReactJS-abcdGame/static/js/2.577c3f73.chunk.js",
+    "static/js/2.577c3f73.chunk.js.map": "/ReactJS-abcdGame/static/js/2.577c3f73.chunk.js.map",
+    "static/js/3.ad084c90.chunk.js": "/ReactJS-abcdGame/static/js/3.ad084c90.chunk.js",
+    "static/js/3.ad084c90.chunk.js.map": "/ReactJS-abcdGame/static/js/3.ad084c90.chunk.js.map",
+    "index.html": "/ReactJS-abcdGame/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ReactJS-abcdGame/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.577c3f73.chunk.js.LICENSE.txt": "/ReactJS-abcdGame/static/js/2.577c3f73.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactJS-abcdGame/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81162b6.js",
+    "static/js/2.577c3f73.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.50cf5da2.chunk.js"
+  ]
+}
